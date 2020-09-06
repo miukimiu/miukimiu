@@ -10,7 +10,7 @@ Music was also a big part of my life. I was the first female solo Hip-Hop artist
 
 In a nutshell, 
 
-- 🔭 I’m currently working at [Elastic](https://elastic.github.io/) as a Product Designer who codes.
+- 🔭 I currently work at [Elastic](https://elastic.github.io/) as a Product Designer who codes.
 - 🤔 I love contributing to and helping out other open-source projects.
 - 🎧 I recorded a Hip-Hop song called [Fork this](https://github.com/miukimiu/fork-this) to encourage women to follow their passion. 
 - 🎤 I talked at some of the biggest React conferences around the world! Check them out on my [website](https://www.miukimiu.com/). 
