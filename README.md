@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-My name is Miuki Miu (real name Elizabet 🙃). I'm a designer who codes!
+My name is Elizabet Oliveira. I'm a designer who codes!
 
 I started my career as a web developer, and soon I realized that I prefer the more visual side of the web. I love interaction design, front-end technology, animation, and I'm obsessed with making the web fun again!
 
